@@ -1,5 +1,11 @@
 # `create-react-app` with a server example
 
+I have tried this example following step by step guide at fullstackreact.com
+
+I worked on c9 Cloud IDE and pushed my code here
+
+My c9 IDE is at -- https://ide.c9.io/danysh/
+
 [![TravisCI](https://travis-ci.org/fullstackreact/food-lookup-demo.svg?branch=master)](https://travis-ci.org/fullstackreact/food-lookup-demo)
 [![Dolphins](https://cdn.rawgit.com/fullstackreact/food-lookup-demo/master/dolphins-badge.svg)](https://www.fullstackreact.com)
 
